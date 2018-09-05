@@ -1,0 +1,19 @@
+.img-fluid {
+    width : 100px;
+    height : 100px;
+}
+
+.container {
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    margin-left: 80px;
+    border-style: solid;
+    padding: 20px;
+    border-color: #4286f4;
+}
+
+#formlogin {
+    width: 500px;
+}
